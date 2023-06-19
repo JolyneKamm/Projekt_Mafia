@@ -1,4 +1,4 @@
-# Codebuch Projekt Mafia
+# Codebuch Projekt Mafia Cosa Nostra
 
 Wie sind die Mitglieder der Cosa Nostra, die in den Maxi-Prozessen 1986/87 verurteilt wurden, miteinander vernetzt?
 
