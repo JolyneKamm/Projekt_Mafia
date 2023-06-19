@@ -1,0 +1,10 @@
+id,name,nickname,age,city,familyclan,crime,sentence
+sr,Salvatore Riina,"""U curtu"" ""Toto Riina""",56,Corleone,Corleonesi,NA,NA
+bp,Bernardo Provenzano,"""u'Tratturi""",54,Corleone,Corleonesi,NA,NA
+ll,Luciano Leggio,"""La primula rossa di Corleone""",61,Corleone,Corleonesi,NA,NA
+gc,Giuseppe Calo,"""Pippo Caló""",55,Palermo,Porta Nuova,NA,NA
+tb,Tomaso Buscetta,"""Don Masino""",59,Palermo,Porta Nuova,NA,NA
+mg,Michele Greco,"""Il papa""",63,Palermo,Greco,NA,NA
+is,Ignazio Salvo,NA,54,Salemi,Salemi,NA,NA
+fm,Filippo Marchese,"""Melanzana""",NA ,Palermo,Corso dei Mille,NA,NA
+gm,Giuseppe Marchese,"""Pino""",24,Palermo,Corso dei Mille,NA,NA
