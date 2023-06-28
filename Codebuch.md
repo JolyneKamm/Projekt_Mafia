@@ -5,13 +5,17 @@ Wie sind die Mitglieder der Cosa Nostra, die in den Maxi-Prozessen 1986/87 verur
 **Node-Attribute**
 
 -   id: Kürzel der Knoten
--   name: Namen der Mafia-Mitglieder
+-   name: Namen der Mafia-Mitglieder/Clans
+-   nameshort: id (Kürzel)
 -   nickname: Spitzname des Mitglieds
 -   age: Alter nach Geburtsjahr
 -   city: Geburtsort
 -   familyclan: Zugehörigkeit zu Familie
+-   position: z.B. Boss
 -   crime: Verbrechensart
--   sentence: Strafe
+          - Drogenhandel
+          - Mord
+-   sentence: Haftstrafe in Jahren (numerisch)
 
 **Edge-Attribute**
 
@@ -21,9 +25,9 @@ Wie sind die Mitglieder der Cosa Nostra, die in den Maxi-Prozessen 1986/87 verur
                 - conflict
 
 -   weight: Intensität der Beziehung
-                - family: 1= 1. Grades, 2= 2. Grades
+                - family: 1= 2. Grades, 2= 1. Grades
                 -  ally: 1 = Bekannte, 2 = Freunde
 
 -   type: Zugehörigkeit zu Familienclan
-(-   range: Jahr der Beziehung)
+-   range: Jahr der Beziehung
                
