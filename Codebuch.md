@@ -20,7 +20,7 @@ Wie sind die Mitglieder der Cosa Nostra, die in den Maxi-Prozessen 1986/87 verur
 
 **Edge-Attribute**
 -   from, to
--   relation: Art der Beziehung: 
+-   relation: Art der Beziehung:
                 - family: Familienclan-Zugehörigkeit
                 - ally: Verbündete
                 - conflict
