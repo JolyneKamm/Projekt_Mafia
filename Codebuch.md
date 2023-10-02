@@ -2,6 +2,7 @@
 
 Wie sind die Mitglieder der Cosa Nostra, die in den Maxi-Prozessen 1986/87 verurteilt wurden, miteinander vernetzt?
 
+
 **Node-Attribute**
 
 -   id: Kürzel der Knoten
