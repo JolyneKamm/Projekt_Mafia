@@ -27,7 +27,8 @@ Wie sind die Mitglieder der Cosa Nostra, die in den Maxi-Prozessen 1986/87 verur
 
 -   weight: Intensität der Beziehung
                 - family: 1 = gleicher Familienclan 2= gleicher Familienclan + blutsverwandt
-                -  ally: 1 = Bekannte, 2 = Freunde, 3 = blutsverwandt (aber nicht gleicher Clan)
+                - ally: 1 = Bekannte, 2 = Freunde, 3 = blutsverwandt (aber nicht gleicher Clan)
+                - conflict: 1 = Konflikt
     
 -   type: Zugehörigkeit zu Familienclan oder Beziehung zwischen Verurteilten
           - clan
