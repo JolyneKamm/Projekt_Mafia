@@ -12,6 +12,7 @@ Wie sind die Mitglieder der Cosa Nostra, die in den Maxi-Prozessen 1986/87 verur
 -   age: Alter nach Geburtsjahr
 -   city: Geburtsort
 -   familyclan: Zugehörigkeit zu Familienclan
+-   type: member oder clan
 -   position: z.B. Boss oder Mitglied, besondere Ämter
 -   crime: Verbrechensart
           - Drogenhandel
